@@ -6,5 +6,5 @@ The data contains type of crime, year, month, day, time, street name, X and Y co
 The main focus of this project:
 1. Clean and transform data
 2. Explatory data analysis
-3. Visualization with tableau
+3. Visualization with tableau https://public.tableau.com/app/profile/victor.yung/viz/CrimeVancouverDashboard/Dashboard1
    

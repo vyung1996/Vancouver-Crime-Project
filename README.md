@@ -21,6 +21,14 @@ In this project, I wanted to emphasize the overall trend of crime rates and crim
 From the timeseries plot below, there has been a downward trend of crime rates occuring over the years. From 2003 to 2023 we are experiencing a 43% drop in total crime rates within the Vancouver region.
 ![Screen Shot 2024-07-12 at 10 25 37 AM](https://github.com/user-attachments/assets/1afd3014-e91e-4a70-8df3-2ea4c124ae0d)
 
+Overall, we notice that Theft from Vehicle was a large proportion of the type of crime occurred followed by Other Theft over the range of 20 years. However, the most stagnant of offences comes from Vehicle Collisions or Pedrestian Struck (with Fatality) and Homicides.
+<img width="897" alt="Screen Shot 2024-07-12 at 10 31 44 AM" src="https://github.com/user-attachments/assets/bd9f641b-a5ce-4cd9-9372-b1cf7efe856b">
+<img width="894" alt="Screen Shot 2024-07-12 at 10 32 32 AM" src="https://github.com/user-attachments/assets/70c28f1b-7fd8-46f9-bb15-fc663d26f795">
+
+Addtionally, majority of the crimes taken place would between Midnight and Evening which is expected to see.
+<img width="878" alt="Screen Shot 2024-07-12 at 10 33 45 AM" src="https://github.com/user-attachments/assets/30e6157c-2da8-4d78-bfc8-258490ca0d0d">
+
+
 
 
    

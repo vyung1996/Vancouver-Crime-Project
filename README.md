@@ -12,6 +12,11 @@
 * time
 * street name
 * X and Y coordinates
+* Longitude and Latitude
+
+## Exploratory Data Analysis
+---
+
 
 
 
